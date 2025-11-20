@@ -525,10 +525,10 @@ Now that are Cards are contained within a Grid, they sit nicely side by side.
 
 ## Making it responsive
 
-If you adjust the size of the browser window, not ice that Grommet is taking care of a
+If you adjust the size of the browser window, notice that Grommet is taking care of a
 lot of the responsive behavior for us.
 
-On a small screen (around the size of most mobile devices) the content within the cards gets to be a bit long. Let's change the text content in the c=Cards so that it truncates
+On a small screen (around the size of most mobile devices) the content within the cards gets to be a bit long. Let's change the text content in the Cards so that it truncates
 after 3 lines when we are in a small viewport.
 
 First we need to import [ResponsiveContext](https://v2.grommet.io/responsivecontext).
